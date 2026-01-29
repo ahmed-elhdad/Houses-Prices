@@ -43,8 +43,8 @@ The dataset contains the following features:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/house-price-prediction.git
-cd house-price-prediction
+https://github.com/ahmed-elhdad/Houses-Prices.git
+cd Houses-Prices
 ```
 ### 2️⃣ Install dependencies
 ```bash
@@ -52,7 +52,8 @@ pip install -r requirements.txt
 ```
 ### 3️⃣ Run the training script
 ```bash
-3️⃣ Run the training script
+cd src
+python train.py
 ```
 ## 🛠 Technologies Used
 - Python
