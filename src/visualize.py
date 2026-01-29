@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 
+# m ==> model
 def visualize():
     df = pd.read_csv("house_data.csv")
 
